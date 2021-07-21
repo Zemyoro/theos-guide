@@ -1,4 +1,4 @@
-# Instructions (For Ubuntu based distros and WSL) 
+# Instructions (For Ubuntu based distros and WSL)
 Make sure to run all commands from the code blocks into terminal.
 
 
@@ -31,7 +31,9 @@ Restart the terminal before running the commands below
 
 `git clone --recursive https://github.com/theos/theos.git $THEOS`
 
-`nano $THEOS/vendor/lib/CydiaSubstrate.framework/CydiaSubstrate.tbd` then on line 3, change`iphoneos` to `ios`
+`nano $THEOS/vendor/lib/CydiaSubstrate.framework/CydiaSubstrate.tbd` then on line 3, change`iphoneos` to `ios`.
+
+Then, `ctrl + x`, press `y`, then press `enter`
 
 ## Get the toolchain
 (If you have any issues like "illegal command name" etc... switch terminal to bash)
