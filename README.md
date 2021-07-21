@@ -7,6 +7,7 @@ Make sure to run all commands from the code blocks into terminal.
 [If you're using WSL and get an error (E.g "E: Unable to locate package clang")](https://github.com/Zemyoro/theos-guide/wiki/WSL-Errors)
 
 **Additionally on WSL:**
+
 `sudo update-alternatives --set fakeroot /usr/bin/fakeroot-tcp`
 
 
