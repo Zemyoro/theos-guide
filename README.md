@@ -31,7 +31,7 @@ Restart the terminal before running the commands below
 
 `git clone --recursive https://github.com/theos/theos.git $THEOS`
 
-`nano $THEOS/vendor/lib/CydiaSubstrate.framework/CydiaSubstrate.tbd` then on line 3, change`iphoneos` to `ios`**
+`nano $THEOS/vendor/lib/CydiaSubstrate.framework/CydiaSubstrate.tbd` then on line 3, change`iphoneos` to `ios`
 
 ## Get the toolchain
 (If you have any issues like "illegal command name" etc... switch terminal to bash)
