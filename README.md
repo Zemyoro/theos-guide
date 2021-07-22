@@ -1,4 +1,5 @@
 # Theos Guide by Zemyoro
+* [Official Guide](https://github.com/theos/theos/wiki/Installation-Linux) (Highly suggested)
 * [Ubuntu & WSL Guide](https://github.com/Zemyoro/theos-guide/wiki/Instructions-(For-Ubuntu-based-distros-and-WSL)(Bash-Shell)) (Also below)
 * [Wiki](https://github.com/Zemyoro/theos-guide/wiki)
 
