@@ -3,7 +3,7 @@
 * [Ubuntu & WSL Guide](https://github.com/Zemyoro/theos-guide/wiki/Instructions-(For-Ubuntu-based-distros-and-WSL)(Bash-Shell)) (Also below)
 * [Wiki](https://github.com/Zemyoro/theos-guide/wiki)
 
-# Instructions (For Ubuntu based distros and WSL) (Bash Shell)
+# Instructions (For Ubuntu based distros & WSL) (Bash Shell)
 Make sure to run all commands from the code blocks into terminal.
 
 
