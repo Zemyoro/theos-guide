@@ -1,6 +1,5 @@
 # Theos Guide by Zemyoro
 * [Ubuntu & WSL Guide](https://github.com/Zemyoro/theos-guide/wiki/Instructions-(For-Ubuntu-based-distros-and-WSL)(Bash-Shell)) (Also below)
-* [Arch Guide](https://github.com/Zemyoro/theos-guide/wiki/(Not-Working)-Instructions-(For-Arch-based-distros)(Bash-Shell)) (Not Working)
 * [Wiki](https://github.com/Zemyoro/theos-guide/wiki)
 
 # Instructions (For Ubuntu based distros and WSL) (Bash Shell)
