@@ -9,7 +9,7 @@ Make sure to run all commands from the code blocks into terminal.
 
 `sudo apt-get install fakeroot git curl perl clang-6.0 build-essential libtinfo5`
 
-[If you get an error (E.g "E: Unable to locate package clang")](https://github.com/Zemyoro/theos-guide/wiki/WSL-Errors)
+[If you get an error (E.g "E: Unable to locate package clang")](https://github.com/Zemyoro/theos-guide/wiki/Errors)
 
 **Additionally on WSL:**
 
