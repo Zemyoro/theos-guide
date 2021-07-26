@@ -68,6 +68,8 @@ Then, `ctrl + x`, press `y`, then press `enter`
 
 `rm -rf iOS-SDKs-master`
 
+# Instructions (For Arch based distros & Manjaro) (Bash/ZSH Shell)
+
 ## We're Done! Let's run theos
 
 `$THEOS/bin/nic.pl`
