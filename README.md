@@ -36,7 +36,7 @@ Restart the terminal before running the commands below
 
 `git clone --recursive https://github.com/theos/theos.git $THEOS`
 
-## Change if using iOS Simulator (Suggested to do if using toolchain in next step)
+## Change if using iOS Simulator (Suggested anyways if using toolchain in next step)
 `nano $THEOS/vendor/lib/CydiaSubstrate.framework/CydiaSubstrate.tbd` then on line 3, change`iphoneos` to `ios`.
 
 Then, `ctrl + x`, press `y`, then press `enter`
